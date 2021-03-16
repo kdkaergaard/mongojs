@@ -7,15 +7,8 @@ node_js:
   - "10"
   - "9"
   - "8"
-  - "7"
-  - "6"
-  - "5"
-  - "4"
 
 env:
-  - MONGODB_VERSION="2.6.12"
-  - MONGODB_VERSION="3.0.15"
-  - MONGODB_VERSION="3.2.16"
   - MONGODB_VERSION="3.4.7"
   - MONGODB_VERSION="4.0.0"
   - MONGODB_VERSION="4.0.23"
